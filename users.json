@@ -1,0 +1,11 @@
+{
+    "admin": {
+        "password": "$2b$12$Y6.Y9ruB5iUt0oyciqD7auFMAWGz4fKyfYYnCyy8MjCnQm.Py/WXW",
+        "role": "admin"
+    },
+    "demo": "$2b$12$ozBqwco6u2go946qNPTb7e3zJdAjAgHmaqazU4dZEhlz1F2uINPwW",
+    "customer": {
+        "password": "$2b$12$J.l6D4CqIoxz9IA/C4SIqO.XcQcKFX5R.S52/dsa01vseG42glIom",
+        "role": "customer_admin"
+    }
+}
